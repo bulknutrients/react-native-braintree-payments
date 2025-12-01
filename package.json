@@ -47,14 +47,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucpak/react-native-braintree-payments.git"
+    "url": "git+https://github.com/bulknutrients/react-native-braintree-payments.git"
   },
   "author": "lucpak <luci.pak@bulknutrients.com.au> (https://github.com/lucpak)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lucpak/react-native-braintree-payments/issues"
+    "url": "https://github.com/bulknutrients/react-native-braintree-payments/issues"
   },
-  "homepage": "https://github.com/lucpak/react-native-braintree-payments#readme",
+  "homepage": "https://github.com/bulknutrients/react-native-braintree-payments#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
